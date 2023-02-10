@@ -1,0 +1,39 @@
+body{
+    background: darkcyan;
+
+}
+.huh{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#title{
+    text-align: center;
+    font-size: 40px;
+    box-shadow: 5px 5px 5px while;
+}
+#image{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    width: 40%;
+    height: 80%;
+}
+    
+
+#caption{
+    font-size: 17px;
+}
+#tribute-title{
+    text-align: center;
+    color: black;
+    text-shadow: 5px 5px 5px white;
+}
+#tribute-date{
+    background: rebeccapurple;
+    padding: 20px 20px;
+    margin: 15px;
+    margin-top: 50px;
+}
